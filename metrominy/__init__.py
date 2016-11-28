@@ -147,6 +147,3 @@ def test3():
     # Search processing
     query = Query(data_query='life learning')
     print query.search()
-
-
-test2()
