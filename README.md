@@ -10,6 +10,10 @@ This package purely weighting and calculation of similarity and does not yet inc
 If you are really new about text mining and basic weighting. This package uses methods Tf-Idf and Cosine Similarity. This topic relates about text mining. You can read about [Text Mining](https://en.wikipedia.org/wiki/Text_mining) and
 [Tf-Idf](https://en.wikipedia.org/wiki/Tf%E2%80%93idf).
 
+## Required
+
+This package works on `Python 2.7` and `Python 3` does not support.
+
 ## Installation
 
 This package is available at PyPI. You can install it via pip command line:
